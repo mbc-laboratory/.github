@@ -37,7 +37,7 @@ Jika Anda tertarik untuk berdiskusi, mengadopsi, atau mengembangkan project lebi
 
 ## 📬 Kontak
 
-**Maintainer:** Ardava  
+**Organization Admin:** Ardava  
 **Contact:** +62-811-6210-151
 
 ---
