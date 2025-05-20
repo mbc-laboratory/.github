@@ -1,6 +1,6 @@
 # `MBC Laboratory Organization`
 
-Selamat datang di organisasi GitHub resmi **MBC** (Machine-Based Computing)!  
+Selamat datang di organisasi GitHub resmi **MBC Laboratory**!  
 Organisasi ini dibuat sebagai _arsip_ hasil riset, kode, dan modul seluruh divisi di MBC. Setiap kontribusi yang dilakukan akan terdokumentasi serta mudah diakses oleh seluruh anggota dan asisten riset.
 
 ---
