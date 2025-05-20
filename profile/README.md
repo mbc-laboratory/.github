@@ -1,4 +1,4 @@
-# 🌐 MBC Laboratory — Public Research & Project Archive
+# `MBC Laboratory Organization`
 
 Selamat datang di GitHub resmi **MBC Laboratory**!  
 Repositori di dalam organisasi ini berisi kumpulan hasil riset, pengembangan, dan project yang telah dipublikasikan oleh berbagai divisi di MBC Laboratory.
